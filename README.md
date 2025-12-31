@@ -1,5 +1,4 @@
-# S.T.F.U
-## System Threat Forecasting Unit
+# System Threat Forecasting Unit
 
 A Machine Learning-based system designed to forecast potential system threats based on historical and real-time data. With 76 distinct features and over a thousand data points, this project aims to proactively identify risks and anomalies in system behavior.
 
